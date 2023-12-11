@@ -2,5 +2,5 @@
 # coding_session_2
 
 # chartjs
-#CHRISTIAN TUBO
+# Christian Tubo
 # April Joy Gamboa
